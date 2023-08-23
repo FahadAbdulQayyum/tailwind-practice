@@ -35,6 +35,8 @@ export default Index
 
 // Default codes
 // For learninigs!
+// I'm wondering it's changing its color so trickly
+
 
 
 // import * as React from "react"
