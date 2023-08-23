@@ -8,7 +8,6 @@ const Index = () => {
         <img src={logo} className='sm:m-auto md:m-0' />
         <div className='hidden md:inline-flex'></div>
         <div className='hidden md:inline-flex'></div>
-        {/* <ul className='hidden md:inline-flex md:items-center md:flex sm:flex-col space-x-5 md:flex-row'> */}
         <span className='flex flex-col md:flex-row justify-center items-center text-center fixed md:relative right-0 bottom-0 top-0 md:bg-transparent backdrop-blur-sm md:blur-none'>
         <ul className='md:inline-flex md:items-center md:flex sm:flex-col md:space-x-5 md:flex-row justify-center'>
           <li className='w-full my-1'>
@@ -24,7 +23,6 @@ const Index = () => {
             <a>Home</a>
           </li>
         </ul>
-        {/* <button className='bg-teal-600 p-4 px-8 text-white rounded-full hidden md:inline-flex'>Let's Start</button> */}
         <button className='bg-teal-600 p-4 px-8 text-white rounded-full md:inline-flex md:ms-5 sm:p-2 sm:px-4'>Let's Start</button>
         </span>
       </div>
