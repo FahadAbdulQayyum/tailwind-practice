@@ -11,16 +11,16 @@ const Index = () => {
         {/* <ul className='hidden md:inline-flex md:items-center md:flex sm:flex-col space-x-5 md:flex-row'> */}
         <span className='flex flex-col md:flex-row justify-center items-center text-center fixed md:relative right-0 bottom-0 top-0 md:bg-transparent backdrop-blur-sm md:blur-none'>
         <ul className='md:inline-flex md:items-center md:flex sm:flex-col md:space-x-5 md:flex-row justify-center'>
-          <li className='bg-orange-200 w-full my-1'>
+          <li className='w-full my-1'>
             <a>Home</a>
           </li>
-          <li className='bg-orange-200 w-full my-1'>
+          <li className='w-full my-1'>
             <a>Home</a>
           </li>
-          <li className='bg-orange-200 w-full my-1'>
+          <li className='w-full my-1'>
             <a>Home</a>
           </li>
-          <li className='bg-orange-200 w-full my-1'>
+          <li className='w-full my-1'>
             <a>Home</a>
           </li>
         </ul>
