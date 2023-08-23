@@ -33,6 +33,9 @@ const Index = () => {
 export default Index
 
 
+// Default codes
+// For learninigs!
+
 
 // import * as React from "react"
 
